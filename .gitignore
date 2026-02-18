@@ -27,3 +27,7 @@ deploying-ai-env
 *.jsonl
 *.htm
 *.txt
+
+
+# Folder
+01_materials/
